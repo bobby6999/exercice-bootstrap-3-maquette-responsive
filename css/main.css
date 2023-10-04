@@ -75,11 +75,12 @@ h1 {
 
 .author {
   text-align: center;
-  color: #000;
+  color: #000000;
   font-family: Heebo;
   font-size: 10px;
   font-style: normal;
   margin: 0 10px 30px 10px;
+  padding-bottom: 30px;
 }
 
 .author-review {
@@ -115,6 +116,7 @@ p {
   font-weight: 300;
   line-height: normal;
   margin: 20px 20px 30px 20px;
+  padding-bottom: 30px;
 }
 
 .gabriel {
@@ -125,6 +127,7 @@ p {
   font-weight: 400;
   line-height: 26px; /* 118.182% */
   margin: 25px 20px 20px 25px;
+  padding-top: 25px;
 }
 
 .mia {
@@ -168,8 +171,9 @@ p {
   font-weight: 700;
   line-height: 23px; /* 127.778% */
   margin: 25px 20px 0px 20px;
+  padding-top: 25px;
 }
 
 .news {
-  background-color: rgb(113, 139, 171);
+  background-color: #ffffff;
 }
